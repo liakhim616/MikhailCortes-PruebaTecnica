@@ -4,7 +4,9 @@ Repositorio de Mikhail Cortes para la prueba técnica de Geta Club
 
 Muchas gracias por tomarse el tiempo de revisar mi trabajo, espero que sea de su agrado, me gustaría mucho que me dieran retroalimentación para seguir mejorando.
 
-De lo que se me pidió para la prueba, lo siguiente está implementado:
+------------------------------------------------
+
+Lo siguiente está implementado:
 
 3 Scenas; Menu, Loading y Gameplay
 
@@ -20,6 +22,9 @@ Plataforma de incremento de velocidad, Plataforma de Salto y Hazzard que lanza e
 
 En el menu principal se puede elegir entre 3 vehículos diferentes
 
+Tambien hay una Build para windows por si gustan hacer pruebas ahi
+
+-------------------------------------------------
 
 Assets descargados de la tienda:
 
@@ -56,6 +61,7 @@ Al chocar con un Hazzard
 https://freesound.org/people/cabled_mess/sounds/371276/
 Al saltar
 
+----------------------------------------------------------------------------
 
 Áreas de oportunidad:
 Al tener solo un día para realizar la prueba, hubo muchas cosas que por desgracia no logre incluir, como por ejemplo:
@@ -73,6 +79,8 @@ El vehiculo no cuenta con animaciones apropiadas para la acción que se encuentr
 Falta un método para reiniciar a demanda del jugador, en general creo que necesita un menu dentro de Gameplay
 
 No hay manera de cambiar el color de los materiales del Vehiculo
+
+No estoy acostumbrado a hacer comentarios en mi codigo, Lo mantengo ordenado usando principalmente #region, cosa que esta vez me salte
 
 ----------------------------------------------------------------
 
