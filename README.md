@@ -44,13 +44,13 @@ Incremento de Velocidad
 https://freesound.org/people/Havana_White/sounds/565261/
 Musica de Fondo
 
-Lap https://freesound.org/people/JustInvoke/sounds/446142/
+https://freesound.org/people/JustInvoke/sounds/446142/
 Al completar una vuelta
 
 https://freesound.org/people/NicknameLarry/sounds/492072/
 Al cruzar un checkpoint
 
-Hazz https://freesound.org/people/MATRIXXX_/sounds/453061/
+https://freesound.org/people/MATRIXXX_/sounds/453061/
 Al chocar con un Hazzard
 
 https://freesound.org/people/cabled_mess/sounds/371276/
